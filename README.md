@@ -18,7 +18,7 @@ Open the project in Eclipse, and click on the green "run" button on the top of t
 ![Main page](https://i.imgur.com/Bu2Oaz1.png)
 
 ## Token Creation
-To allow the program to access the file, place it inside the images source folder. Then, follow the program instructions to create the NFT on the hashgraph and receive a link to the file on IPFS (https://ipfs.io/).
+To allow the program to access the file, place it inside the images source folder. There are a few example files already in the folder. Then, follow the program instructions to create the NFT on the hashgraph and receive a link to the file on IPFS (https://ipfs.io/).
 
 ![Image creation](https://i.imgur.com/unkHbai.png)
 
@@ -31,3 +31,5 @@ View a collection of created NFTs here. Type "prev" or "next" to go to another p
 The NFTs bought by the temporary account are displayed here. Type the number of the NFT to view its information. Once the program is closed, these tokens will disappear.
 
 ![My NFTs](https://i.imgur.com/vZ6tD58.png)
+
+#### Disclaimer: I do not own any of the images in the image folder.
