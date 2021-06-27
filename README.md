@@ -32,4 +32,4 @@ The NFTs bought by the temporary account are displayed here. Type the number of 
 
 ![My NFTs](https://i.imgur.com/vZ6tD58.png)
 
-#### Disclaimer: I do not own any of the images in the images folder.
+#### Disclaimer: I do not own any of the files in the images folder.
