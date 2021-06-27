@@ -12,6 +12,9 @@ Download IPFS here: https://docs.ipfs.io/install/command-line/#system-requiremen
 
 Once downloaded, navigate to the folder in your terminal, and run the command "ipfs daemon".
 
+## Run the program
+Open the project in Eclipse, and click on the green "run" button on the top of the screen. After that the program should be up and running!
+
 ![Main page](https://i.imgur.com/Bu2Oaz1.png)
 
 ## Token Creation
