@@ -2,17 +2,17 @@
 Grade 12 Culminating project for ICS4UA written in Java in Eclipse. It is a program that allows the user to tokenize a file using Hedera. It also includes a market, where it simulates the exchange of non-fungible tokens for hbars.
 
 ## Setup
-### Create a Hedera Testnet Account
+#### Create a Hedera Testnet Account
 Create an account here: https://portal.hedera.com/register
 
 Type the account ID, public key, and private key for the testnet in the program's .env file.
 
-### Download IPFS
+#### Download IPFS
 Download IPFS here: https://docs.ipfs.io/install/command-line/#system-requirements
 
 Once downloaded, navigate to the folder in your terminal, and run the command "ipfs daemon".
 
-## Run the program
+#### Run the program
 Open the project in Eclipse, and click on the green "run" button on the top of the screen. After that the program should be up and running!
 
 ![Main page](https://i.imgur.com/Bu2Oaz1.png)
