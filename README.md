@@ -1,7 +1,7 @@
 # NFT Buddy
 Grade 12 Culminating project for ICS4UA written in Java in Eclipse. It is a program that allows the user to tokenize a file using Hedera. It also includes a market, where it simulates the exchange of non-fungible tokens for hbars.
 
-[](https://imgur.com/Bu2Oaz1)
+![Main page](https://imgur.com/Bu2Oaz1)
 
 ## Token Creation
 To allow the program to access the file, place it inside the images source folder. Then, follow the program instructions to create the NFT on the hashgraph and receive a link to the file on IPFS (https://ipfs.io/).
