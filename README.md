@@ -1,6 +1,8 @@
 # NFT Buddy
 Grade 12 culminating project for ICS4UA written in Java in Eclipse. It is a program that allows the user to tokenize a file using Hedera. It also includes a market, where it simulates the exchange of non-fungible tokens for hbars.
 
+Update Sep 2, 2021: Hedera now supports NFTs. https://hedera.com/blog/new-hedera-token-service-features-nfts-metadata-and-custom-fees
+
 ## Setup
 ### Create a Hedera Testnet Account
 Create an account here: https://portal.hedera.com/register
